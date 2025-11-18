@@ -4,4 +4,4 @@ pillow
 uvicorn
 fastapi
 python-multipart
-sqlite3-binary
+
