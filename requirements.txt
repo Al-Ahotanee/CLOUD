@@ -1,7 +1,9 @@
 gradio==4.44.0
+huggingface-hub==0.26.5
 pandas
 pillow
 uvicorn
 fastapi
 python-multipart
+
 
